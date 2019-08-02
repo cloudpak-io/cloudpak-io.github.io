@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# IBM Cloud Paks
 
-You can use the [editor on GitHub](https://github.com/cloudpak-io/cloudpak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beyond containers and Kubernetes, enterprises need to orchestrate their production topology, and to provide management, security and governance for their applications.
 
-### Markdown
+IBM Cloud Paks™ are enterprise-ready, containerized software solutions that give clients an open, faster and more secure way to move core business applications to any cloud. Each pak includes a container platform, containerized IBM middleware and open source components, and common software services for development and management, on top of a common integration layer – designed to reduce development time by up to 84 percent and operational expenses by up to 75 percent.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Value
 
-```markdown
-Syntax highlighted code block
+### Complete, yet simple
 
-# Header 1
-## Header 2
-### Header 3
+Application, data and AI services, fully modular and easy to consume.
 
-- Bulleted
-- List
+### IBM certified
 
-1. Numbered
-2. List
+Full software stack support, and ongoing security, compliance and version compatibility.
 
-**Bold** and _Italic_ and `Code` text
+### Run anywhere
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloudpak-io/cloudpak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On-premises, on private and public clouds, and in pre-integrated systems.

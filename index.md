@@ -1,5 +1,3 @@
-# IBM Cloud Paks
-
 ## Overview
 
 Beyond containers and Kubernetes, enterprises need to orchestrate their production topology, and to provide management, security and governance for their applications.
